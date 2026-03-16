@@ -1,8 +1,8 @@
 import React from "react";
 import Header from "../components/Header";
-import ProductsSection from "../components/ProductsSection";
+import ProductsSection from "../components/Section3";
 import Footer from "../components/Footer";
-import ContactSection from "../components/ContactSection";
+import ContactSection from "../components/Section2";
 
 import zavod from "../assets/zavod.png";
 import zavod2 from "../assets/zavod2.png";
@@ -16,7 +16,7 @@ import les1 from "../assets/les1.png"
 import les2 from "../assets/les2.png"
 import les3 from "../assets/les3.png"
 
-import CooperationSection from "../components/CooperationSection";
+import CooperationSection from "../components/Section1";
 import VacancyCard from "../components/VacancyCard";
 import NewsCard from "../components/NewsCard";4
 

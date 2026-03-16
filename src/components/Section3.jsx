@@ -1,5 +1,5 @@
 import React from "react";
-import ProductCard from "./ProductCard";
+import ProductCard from "./Section4";
 import prod1 from "../assets/produckt1.png"
 import prod2 from "../assets/produckt2.png"
 import prod3 from "../assets/produckt3.png"
